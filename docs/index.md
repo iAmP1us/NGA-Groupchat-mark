@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: NGA促进消费工作组
-      link: /NGA促进消费工作组/index
+      link: /NGA促进消费工作组/
 #    - theme: alt
 #      text: API Examples
 #      link: /api-examples
