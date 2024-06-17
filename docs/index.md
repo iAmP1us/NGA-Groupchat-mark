@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "NGA-Groupchat-mark"
-  text: "A web for marking chat"
-  tagline: My great project tagline
+  text: "群友搞笑语录"
+  tagline: 随便玩玩
   actions:
     - theme: brand
       text: NGA促进消费工作组
